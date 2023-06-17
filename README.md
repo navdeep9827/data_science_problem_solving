@@ -7,7 +7,7 @@ This project presents a recommendation system designed to suggest the top 5 Indi
 - Cuisine preference
 - Preparation time
 
-The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/kanishk307/6000-indian-food-recipes-dataset/code?select=IndianFoodDatasetCSV.csv).
+The dataset used for this project is obtained from Kaggle and can be found [here](https://www.kaggle.com/datasets/kanishk307/6000-indian-food-recipes-dataset?select=IndianFoodDatasetCSV.csv).
 
 ## Project Structure
 The project is divided into 2 main parts:
