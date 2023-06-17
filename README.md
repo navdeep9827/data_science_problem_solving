@@ -1,4 +1,4 @@
-# Multilingual Food Recommendation Engine 🍳🥗🍘🍜🦪🍛
+# Multilingual Food Recommendation Engine 🥗🍜🍛
 
 This project presents a recommendation system designed to suggest the top 5 Indian food recipes based on user preferences such as:
 
